@@ -1,10 +1,10 @@
 {
-  "name": "typescript-react-template",
+  "name": "todo_recipe",
   "version": "1.0.0",
   "description": "A simple template for Typescript + React + Webpack + Babel",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --watch --config --hot config/webpack.config.js"
+    "start": "webpack --watch --config config/webpack.config.js"
   },
   "author": "Tom Duncalf",
   "license": "ISC",
